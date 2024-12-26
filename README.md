@@ -1,4 +1,4 @@
-```markdown
+
 # 📱🛍️ Aplicación Móvil Tienda de Productos de Tecnología
 
 Este repositorio contiene dos proyectos principales: uno desarrollado en **Java Spring Boot** y otro en **Flutter**. La aplicación simula una tienda de productos de tecnología con funcionalidades como la visualización de productos, el consumo de APIs y una interfaz móvil interactiva.
@@ -22,7 +22,7 @@ A continuación se presentan algunos GIFs que muestran el funcionamiento de la a
    ![Flutter Consumiento API](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/blob/master/2024-12-25%2021-36-59%20(1).gif)
 |   
 ---
-
+```markdown
 ## 🚀 Proyecto 1: Backend - Java Spring Boot (API REST)
 
 Este proyecto es una **API REST** desarrollada con **Java Spring Boot** para gestionar el backend de la tienda de productos de tecnología.
