@@ -19,8 +19,8 @@ A continuación se presentan algunos GIFs que muestran el funcionamiento de la a
 
 3. **Flutter Consumiento API**:  
    El tercer GIF muestra cómo la aplicación Flutter consume la API de manera eficiente para mostrar los productos en la interfaz móvil.  
-   ![Flutter Consumiento API](https://raw.githubusercontent.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/master/2024-12-25%2021-36-59%20(1).gif)
-
+   ![Flutter Consumiento API](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/blob/master/2024-12-25%2021-36-59%20(1).gif)
+|   
 ---
 
 ## 🚀 Proyecto 1: Backend - Java Spring Boot (API REST)
