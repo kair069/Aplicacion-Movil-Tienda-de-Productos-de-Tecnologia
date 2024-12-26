@@ -11,15 +11,15 @@ A continuación se presentan algunos GIFs que muestran el funcionamiento de la a
 
 1. **Pantalla de Inicio**:  
    El primer GIF muestra la pantalla principal de la aplicación donde el usuario puede ver los productos disponibles en la tienda.  
-   ![Aplicación Home](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/blob/master/2024-12-25%2021-35-55.gif)
+   ![Aplicación Home](https://raw.githubusercontent.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/master/2024-12-25%2021-35-55.gif)
 
 2. **Consumo de API**:  
    El segundo GIF muestra cómo la aplicación realiza solicitudes a la API para obtener información de los productos.  
-   ![Consumo de API](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/blob/master/2024-12-25%2021-36-30.gif)
+   ![Consumo de API](https://raw.githubusercontent.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/master/2024-12-25%2021-36-30.gif)
 
 3. **Flutter Consumiento API**:  
    El tercer GIF muestra cómo la aplicación Flutter consume la API de manera eficiente para mostrar los productos en la interfaz móvil.  
-   ![Flutter Consumiento API](https://github.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/blob/master/2024-12-25%2021-36-59%20(1).gif)
+   ![Flutter Consumiento API](https://raw.githubusercontent.com/kair069/Aplicacion-Movil-Tienda-de-Productos-de-Tecnologia/master/2024-12-25%2021-36-59%20(1).gif)
 
 ---
 
